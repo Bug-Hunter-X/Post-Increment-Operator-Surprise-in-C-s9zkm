@@ -1,0 +1,1 @@
+int main() { int x = 5; int y = x++;  printf("%d\n", y); // Prints 5 printf("%d\n", x); // Prints 6 return 0; }
